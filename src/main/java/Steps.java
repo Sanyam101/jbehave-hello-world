@@ -28,7 +28,7 @@ public class Steps {
     }
 
     @Then("The result of the concatenation is $aWord")
-    public void cartContentsIsEmpty(String aWord) {
+    public void concatWorks(String aWord) {
         Assert.assertEquals(aWord, word);
     }
 }

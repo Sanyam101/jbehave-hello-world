@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="789fd856-2f69-46b7-81c9-155eb9549687" name="Default" comment="" />
+    <list default="true" id="789fd856-2f69-46b7-81c9-155eb9549687" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Steps.java" afterPath="$PROJECT_DIR$/src/main/java/Steps.java" />
+    </list>
     <ignored path="jbehave-hello-world.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="789fd856-2f69-46b7-81c9-155eb9549687" time="1376136602360" ignored="false" />
-    <file path="/Steps.java" changelist="789fd856-2f69-46b7-81c9-155eb9549687" time="1376136950767" ignored="false" />
+    <file path="/Steps.java" changelist="789fd856-2f69-46b7-81c9-155eb9549687" time="1376141522713" ignored="false" />
     <file path="/a_story.story" changelist="789fd856-2f69-46b7-81c9-155eb9549687" time="1376140265774" ignored="false" />
     <file path="/AnnotatedStoriesRunner.java" changelist="789fd856-2f69-46b7-81c9-155eb9549687" time="1376137000048" ignored="false" />
     <file path="/Stories.java" changelist="789fd856-2f69-46b7-81c9-155eb9549687" time="1376139242607" ignored="false" />
@@ -68,10 +70,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="a_story.story" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="a_story.story" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/stories/a_story.story">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="49" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
+            <state line="4" column="8" selection-start="55" selection-end="55" vertical-scroll-proportion="0.30456853">
               <folding />
             </state>
           </provider>
@@ -97,10 +99,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Steps.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Steps.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Steps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="21" selection-start="719" selection-end="719" vertical-scroll-proportion="0.7345133">
+            <state line="22" column="16" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,10 +130,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/stories/a_story.story" />
         <option value="$PROJECT_DIR$/src/main/java/AnnotatedStoriesRunner.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Steps.java" />
         <option value="$PROJECT_DIR$/src/main/resources/stories/a_story.story" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Stories.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Steps.java" />
       </list>
     </option>
   </component>
@@ -415,8 +417,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.5412979" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45870206" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.3318584" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6681416" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -484,13 +486,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/stories/a_story.story">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="49" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="116" column="134" selection-start="3703" selection-end="3703" vertical-scroll-proportion="0.0">
@@ -509,10 +504,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Steps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="21" selection-start="719" selection-end="719" vertical-scroll-proportion="0.7345133">
+        <state line="22" column="16" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/stories/a_story.story">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="8" selection-start="55" selection-end="55" vertical-scroll-proportion="0.30456853">
+          <folding />
         </state>
       </provider>
     </entry>
